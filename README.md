@@ -6,7 +6,7 @@ Development of wuthering waves cheat
 ## Todo
 - [x] Imgui menu
 - [ ] Cheat SDK
-- [ ] Github MSBuild
+- [x] Github MSBuild
 - [ ] ESP
 - [ ] Save configs
 - [ ] Simple debug
